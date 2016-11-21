@@ -1,5 +1,7 @@
 # xml-parser
 
+Basic parser to compare Snap! files
+
 ## Prerequisites
 
 You will need [Leiningen][] 2.0.0 or above installed.
